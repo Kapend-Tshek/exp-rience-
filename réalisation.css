@@ -1,0 +1,54 @@
+#conteneur{
+width: 90%;
+height: 90%;
+margin-left: 5%;
+margin-top: 5%;
+border: 1px solid black;
+}
+.header{
+    width: 100%;
+    height: 16%;
+    /*border: 1px solid black;*/
+    background-color:rgb(55, 160, 247);
+}
+.header_img{
+    width: 40%;
+    height:150px;
+}
+.navigation{
+    width: 100%;
+    height: 15%;
+    border: 1px solid black;
+    background-color: blue;
+    
+}
+}
+.image{
+    width: 100%;
+    height: 30%;
+    border: 1px solid black;
+}
+.fond{
+    width: 100%;
+    height: 100%;
+}
+.description{
+    width: 60%;
+    height: 50%;
+    border: 1px solid black;
+    margin-left: 20%;
+    padding: 10px;
+}
+.footer{
+    width: 62%;
+    height: 30%;
+    margin-left: 20%;
+    background-color: rgb(9, 9, 39);
+    border: 1px solid black;
+}
+.dessin{
+    width:150px;
+    height: 100px;
+    margin-left: 5%;
+    margin-top: 10px;
+}
