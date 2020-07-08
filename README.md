@@ -1,2 +1,2 @@
 # reussite
-une avancée dans mon apprentissage le compréhension de Git et GitHub
+une avancée dans mon apprentissage la compréhension de Git et GitHub
