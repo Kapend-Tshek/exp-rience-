@@ -1,2 +1,2 @@
-#reussite
-ok je suis pret pour la suite
+# reussite
+une avancée dans mon apprentissage le compréhension de Git et GitHub
